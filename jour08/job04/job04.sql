@@ -1,1 +1,1 @@
-SELECT * FROM `salles`
+SELECT nom capacite FROM salles
